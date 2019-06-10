@@ -1,0 +1,7 @@
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\bin\x64\Release\HomeBridgeRunner.exe.config
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\bin\x64\Release\HomeBridgeRunner.exe
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\obj\x64\Release\HomeBridgeRunner.ProjectInstaller.resources
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\obj\x64\Release\HomeBridgeRunner.HomeBridgeRunner.resources
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\obj\x64\Release\HomeBridgeRunner.csproj.GenerateResource.cache
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\obj\x64\Release\HomeBridgeRunner.csproj.CoreCompileInputs.cache
+F:\HomeBridge\HomeBridgeRunner\HomeBridgeRunner\obj\x64\Release\HomeBridgeRunner.exe
